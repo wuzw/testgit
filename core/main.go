@@ -1,4 +1,4 @@
-int main()
+string main()
 {
-	
+  return "Hello!"
 }
