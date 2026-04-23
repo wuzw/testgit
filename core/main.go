@@ -7,4 +7,3 @@ string main()
 func ()  {
   return 1;
 }
-\
