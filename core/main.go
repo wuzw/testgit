@@ -1,5 +1,5 @@
 string main()
 {
-  sting abc = "World!";
+  int a = 1; 
   return "Hello!"
 }
