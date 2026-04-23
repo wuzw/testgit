@@ -1,5 +1,9 @@
 string main()
 {
-  string abc = "Hello"; 
+  int a = 1; 
   return "Hello!"
+}
+
+func ()  {
+  return 1;
 }
